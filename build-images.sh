@@ -1,0 +1,1 @@
+docker build -t webstudents apps/react/webstudents/
